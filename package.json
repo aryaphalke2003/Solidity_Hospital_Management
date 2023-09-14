@@ -1,0 +1,17 @@
+{
+  "name": "2020csb1107_arya_assignment3",
+  "version": "1.0.0",
+  "description": "Name: Arya Phalke\r Roll: 2020CSB1107",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "solc": "^0.8.21",
+    "web3": "^4.1.1"
+  }
+}
