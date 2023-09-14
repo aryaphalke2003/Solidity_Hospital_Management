@@ -1,5 +1,4 @@
-# Name: Arya Phalke
-# Roll: 2020CSB1107
+# Solidity Smart Contract
 
 
 1. I have used INFURA instead of GANACHE for setting up Ethereum Node point.
